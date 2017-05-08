@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: white;
+    min-height: 400px;
+    max-height: 400px;
+    overflow-y: scroll;
+}
+
+.map-frame{
+    min-height: 400px;
+    background-color: blue;
+}

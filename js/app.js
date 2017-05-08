@@ -1,0 +1,1 @@
+palantir_app = angular.module('palantir_app',[]);
